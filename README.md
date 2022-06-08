@@ -19,6 +19,8 @@ JupyterLite is being tested against modern web browsers:
 
 ## Deploy your JupyterLite website on GitHub Pages
 
+➡️ **https://dtdang.github.io/jupyterlite-custom/**
+
 Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
 
 ## Further Information and Updates
